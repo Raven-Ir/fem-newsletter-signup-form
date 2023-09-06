@@ -41,8 +41,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL](https://your-solution-url.com)
-- Live Site URL: [live site URL](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/desktop-landing-page-using-tailwindcss-and-reactjs-Hl4iBnNhL9)
+- Live Site URL: [live site URL](https://fem-newsletter-signup-form.vercel.app/)
 
 ## My process
 
@@ -63,5 +63,5 @@ I encountered a problem with the svg files, where the visibility tags with Tailw
 
 ## Author
 
-- Website - [Eirini Tipidou](https://www.your-site.com)
+- Website - [Eirini Tipidou](https://github.com/Raven-Ir)
 - Frontend Mentor - [@Raven-Ir](https://www.frontendmentor.io/profile/Raven-Ir)
