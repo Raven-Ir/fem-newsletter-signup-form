@@ -30,13 +30,13 @@ Users should be able to:
 
 ### Screenshot
 
-## Landing Page
+#### Landing Page
 ![Landing Page](image-2.png)
-## Active state of buttons and input
+#### Active state of buttons and input
 ![Active state of buttons and input](image-1.png)
-## Ivalid email entered message
+#### Ivalid email entered message
 ![Ivalid email entered message](image.png)
-## Success message
+#### Success message
 ![Success message](image-3.png)
 
 ### Links
