@@ -1,5 +1,5 @@
 {
-  "homepage": "https://raven-ir.github.io/fem-newsletter-signup-form/",
+  "homepage": "https://raven-ir.github.io/fem-newsletter-signup-form",
   "name": "newsletter-sign-up",
   "version": "0.1.0",
   "private": true,
@@ -17,7 +17,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build" ,
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
