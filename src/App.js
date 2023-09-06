@@ -19,7 +19,7 @@ function App() {
         {isSignedUp ? <Success email = { emailEntered }/> : <SignUp signedUp={ signedUp }/>}
         <div className='p-2 text-white'>
          Challenge by <a className='hover:text-[#ff6257]' href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-         Coded by <a className='hover:text-[#ff6257]' href="">Eirini Tipidou</a>.
+         Coded by <a className='hover:text-[#ff6257]' href="https://github.com/Raven-Ir">Eirini Tipidou</a>.
         </div>
       </div>
 
